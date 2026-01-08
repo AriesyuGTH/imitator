@@ -41,3 +41,4 @@ The GitHub Action will automatically run, update `report_list.json`, and the lan
 ## Included Reports
 
 *   Initially includes `cursor.html` as an example interactive report. (This will be listed once you add it to the `report/` directory and the action runs).
+
